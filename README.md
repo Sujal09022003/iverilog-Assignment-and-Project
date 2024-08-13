@@ -1,8 +1,8 @@
-# iverilog-Assignment-and-Project
+# Iverilog-Assignment-and-Project
 This folder includes all assignments given in my college for the subject Digital Design and Computer Organisation
 
 
-# for Compilation of file and TestBenchfiles
+# Compilation of file and TestBenchfiles
 iverilog -o <output name> <main file> <testbench file>
 vvp <output name> 
 
